@@ -41,6 +41,9 @@ features:
     - title: Extras
       details: Enlaces pendientes de clasificación.
       link: /extras
+    - title: Canales
+      details: Canales de YouTube organizados por disciplina e idioma.
+      link: /canales
 ---
 
 ## Glosario

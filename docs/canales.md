@@ -1,3 +1,13 @@
+---
+title: Canales
+description: 'Canales de YouTube organizados por disciplina: matemática, física, historia, programación, cine, entretenimiento y más.'
+---
+
+# Canales de YouTube
+
+Canales de YouTube educativos y de divulgación, agrupados por disciplina
+y luego por idioma.
+
 ## Universitario
 
 ### Inglés
@@ -27,15 +37,15 @@
 - [DalpMaths](https://www.youtube.com/c/DalpMaths/playlists): Matemática Básica, Álgebra Lineal, Ecuaciones diferenciales parciales y ordinarias, análisis vectorial, teoría de grupos, espacios topológicos, cálculo tensorial.
 - [Welch Labs](https://www.youtube.com/c/WelchLabsVideo/): Números imaginarios.
 - [CalcuCM](https://www.youtube.com/channel/UCFTxCvN0ck8Yy-2X1ioRKzA/playlists): Problemas resueltos de álgebra y ecuaciones diferenciales. Tómalo a modo de introducción.
-- [Mate & CBC](https://www.youtube.com/channel/UCwqteIzpGiy1dytN7NJzmUg/): Álgebra I (vectorial, polinomios, complejos), Análisis Matemático (series ,cálculo integral, métodos de integración, polinomio de Taylor, derivada, límites y continuidad, funciones, sucesiones, números reales e intervalos).
+- [Mate & CBC](https://www.youtube.com/channel/UCwqteIzpGiy1dytN7NJzmUg/): Álgebra I (vectorial, polinomios, complejos), Análisis Matemático (series, cálculo integral, métodos de integración, polinomio de Taylor, derivada, límites y continuidad, funciones, sucesiones, números reales e intervalos).
 - [Math Rocks](https://www.youtube.com/c/MathRocks/): Álgebra Lineal, Cálculo tensorial, análisis real, fourier, variable compleja, cálculo vectorial y multivariado, ecuaciones diferenciales.
 
 ## Física
 
 ### Inglés
 
-- [Physics with Elliot](https://www.youtube.com/c/PhysicswithElliot): Mecánica Clásica
-- [Tonya Coffey](https://www.youtube.com/channel/UC8D8ZAJvULlIVI3kYowlfhw/): Física General,Termodinámica, física moderna I y II, ciencia de materiales.
+- [Physics with Elliot](https://www.youtube.com/c/PhysicswithElliot): Mecánica Clásica.
+- [Tonya Coffey](https://www.youtube.com/channel/UC8D8ZAJvULlIVI3kYowlfhw/): Física General, Termodinámica, física moderna I y II, ciencia de materiales.
 - [Adam Beatty](https://www.youtube.com/user/youspinmerightrounds)
 - [Classical Mechanics Videos](https://www.youtube.com/channel/UC3WVcp5UG2YDybF6lKW9Yog/videos)
 - [Real Physics](https://www.youtube.com/user/jg394): Electrodinámica, Termodinámica, Python.
@@ -60,7 +70,7 @@
 
 ### Español
 
-- [Pero esa es otra historia](https://www.youtube.com/c/PeroesoesotraHistoria/): Historia universal
+- [Pero esa es otra historia](https://www.youtube.com/c/PeroesoesotraHistoria/): Historia universal.
 
 ## Modelado 3D
 
@@ -104,7 +114,7 @@
 ### Inglés
 
 - [ReligionforBreakfast](https://www.youtube.com/c/ReligionForBreakfast/)
-- [Bart D. Ehrman](https://www.youtube.com/c/bartdehrman/): Cristianismo
+- [Bart D. Ehrman](https://www.youtube.com/c/bartdehrman/): Cristianismo.
 
 ## Filosofía
 
@@ -143,7 +153,7 @@
 
 ### Inglés
 
-- [Y Combinator](https://www.youtube.com/c/ycombinator/): startups
+- [Y Combinator](https://www.youtube.com/c/ycombinator/): startups.
 - [TechAltar](https://www.youtube.com/c/TechAltar/): Desde una perspectiva económica.
 - [Wendover Productions](https://www.youtube.com/c/Wendoverproductions/): Desde una perspectiva económica.
 
