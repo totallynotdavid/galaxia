@@ -44,6 +44,9 @@ features:
     - title: Canales
       details: Canales de YouTube organizados por disciplina e idioma.
       link: /canales
+    - title: Piratería
+      details: Recursos de la escena, foros, NZB indexers y sitios P2P/Usenet.
+      link: /pirateria
 ---
 
 ## Glosario
