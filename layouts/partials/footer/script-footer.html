@@ -1,5 +1,0 @@
-{{- partial "footer/esbuild" (dict "src" "js/app.js" "transpile" false) }}
-
-{{ if eq .Kind "page" }}
-    {{- partial "footer/esbuild" (dict "src" "js/scroll-to-top.js" "transpile" false) }}
-{{ end }}

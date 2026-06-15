@@ -5,8 +5,8 @@ on:
     push:
         branches: [master]
         paths:
-            - '/layouts/'
-            - '/assets/'
+            - '/docs/**'
+            - '/.github/workflows/audit-lighthouse.yml'
 
 jobs:
     lighthouse:
@@ -20,7 +20,7 @@ jobs:
               with:
                   urls: |
                       https://totallynotdavid.github.io/galaxia/
-                      https://totallynotdavid.github.io/galaxia/basededatos/
+                      https://totallynotdavid.github.io/galaxia/basededatos
                   budgetPath: ./.github/budget.json
                   uploadArtifacts: true
                   temporaryPublicStorage: true

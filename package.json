@@ -1,50 +1,18 @@
 {
-    "name": "galaxia",
-    "version": "0.0.5",
-    "description": "Collection of valuable Internet links with practical usage suggestions",
-    "main": "index.js",
-    "dependencies": {
-        "@fontsource-variable/hanken-grotesk": "^5.0.21",
-        "@tailwindcss/typography": "^0.5.15",
-        "autoprefixer": "^10.4.20",
-        "postcss": "^8.4.45",
-        "postcss-cli": "^11.0.0",
-        "tailwindcss": "^3.4.10"
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vitepress dev docs",
+        "dev:lan": "vitepress dev docs --host 0.0.0.0",
+        "build": "vitepress build docs",
+        "preview": "vitepress preview docs",
+        "lint": "markdownlint-cli2 \"*.md\" \".github/*.md\" \"docs/**/*.md\""
     },
     "devDependencies": {
-        "exec-bin": "^1.0.0",
-        "hugo-installer": "^4.0.1",
-        "markdownlint-cli2": "^0.14.0",
-        "npm-run-all": "^4.1.5",
-        "prettier": "^3.3.3",
-        "prettier-plugin-go-template": "^0.0.15"
+        "markdownlint-cli2": "^0.22.1",
+        "vitepress": "^1.6.4",
+        "vue": "^3.5.38"
     },
-    "otherDependencies": {
-        "hugo": "0.127.0"
-    },
-    "scripts": {
-        "clean": "shx rm -rf public node_modules",
-        "start:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css -w",
-        "start:hugo": "exec-bin node_modules/.bin/hugo/hugo server",
-        "start": "run-p start:css start:hugo",
-        "start:lan:hugo": "exec-bin node_modules/.bin/hugo/hugo server --bind=0.0.0.0 --baseURL=http://192.168.18.218 --port=3000",
-        "start:lan": "run-p start:css start:lan:hugo",
-        "build:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css -m",
-        "build:hugo": "exec-bin node_modules/.bin/hugo/hugo --minify",
-        "build": "run-s build:*",
-        "lint": "markdownlint-cli2 \"*.md\" \".github/*.md\" \"content/**/*.md\" \"docs/*.md\"",
-        "prettier": "prettier . --write",
-        "postinstall": "hugo-installer --version otherDependencies.hugo --extended --destination node_modules/.bin/hugo"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/totallynotdavid/Galaxia.git"
-    },
-    "keywords": [
-        "hugo",
-        "tailwind",
-        "awesome-list"
-    ],
     "author": "totallynotdavid",
     "license": "ISC"
 }

@@ -1,28 +1,31 @@
-<p align="center">
-    <img src="https://i.imgur.com/bKC4xJd.png" width="450">
-    <br>
-     <a href="notes/basededatos.md">Base de datos</a> X |
-     <a href="notes/biblioteca.md">Biblioteca</a> X |
-     <a href="notes/busqueda.md">Búsqueda</a> |
-     <a href="notes/directoriopublico.md">Directorio público</a> X |
-     <a href="notes/discoteca.md">Discoteca</a> |
-     <a href="notes/herramienta.md">Herramientas</a> X |
-     <a href="notes/mediateca.md">Mediateca</a> X |
-     <a href="notes/pasatiempo.md">Pasatiempo</a> |
-     <a href="notes/pirateria.md">Piratería</a> |
-     <a href="notes/utilidades.md">Utilidades</a>
-    <br>
-</p>
+# Galaxia
 
----
+Colección de enlaces valiosos de Internet con sugerencias de uso práctico.
 
-| Publicación y CI | Calidad del código | Estado de los enlaces |
-| --- | --- | --- |
-| [![Deploy to GH Pages](https://github.com/totallynotdavid/galaxia/actions/workflows/publish.yml/badge.svg)](https://github.com/totallynotdavid/galaxia/actions/workflows/publish.yml) | [![URL Health Check](https://github.com/totallynotdavid/galaxia/actions/workflows/404.yml/badge.svg)](https://github.com/totallynotdavid/galaxia/actions/workflows/404.yml) | [![Audit Hugo Site](https://github.com/totallynotdavid/galaxia/actions/workflows/audit-hugo.yml/badge.svg)](https://github.com/totallynotdavid/galaxia/actions/workflows/audit-hugo.yml) |
+- 📚 **Sitio publicado:** [totallynotdavid.github.io/galaxia](https://totallynotdavid.github.io/galaxia/)
+- ✏️ **Cómo contribuir:** edita o crea un archivo `.md` en [`docs/`](./docs) y abre un pull request.
 
----
+## Desarrollo local
 
-**GLOSARIO**
+```bash
+bun install
+bun run dev      # servidor de desarrollo en http://localhost:5173
+bun run build    # build de producción a docs/.vitepress/dist
+bun run preview  # previsualizar el build de producción
+```
 
-- **General** significa que aquel sitio o aplicación provee soporte para varios sitios o archivos.
-- **Transmisión general** significa que aquel sitio provee alguna forma de contenido en emisión en continuo y alguna forma de descarga, ya sea a través de servidores de terceros o a través de una red entre pares.
+## Estructura
+
+- `docs/` — contenido del sitio (Markdown)
+- `docs/.vitepress/` — configuración y tema de VitePress
+- `docs/public/` — assets estáticos servidos en la raíz
+- `.github/workflows/` — pipelines de CI/CD
+
+## CI/CD
+
+| Workflow | Propósito |
+| --- | --- |
+| [`publish.yml`](./.github/workflows/publish.yml) | Construye y despliega el sitio a GitHub Pages en cada push a `master` |
+| [`audit-lighthouse.yml`](./.github/workflows/audit-lighthouse.yml) | Auditoría de experiencia de usuario con Lighthouse |
+| [`404.yml`](./.github/workflows/404.yml) | Verificación de enlaces rotos |
+| [`toc.yml`](./.github/workflows/toc.yml) | Genera el TOC del README |

@@ -1,0 +1,19 @@
+/* Brand colors — match the old primary pink from the Hugo theme. */
+:root {
+    --vp-c-brand-1: #ec4899;
+    --vp-c-brand-2: #f472b6;
+    --vp-c-brand-3: #db2777;
+    --vp-c-brand-soft: rgba(236, 72, 153, 0.14);
+}
+
+.dark {
+    --vp-c-brand-1: #f472b6;
+    --vp-c-brand-2: #f9a8d4;
+    --vp-c-brand-3: #ec4899;
+    --vp-c-brand-soft: rgba(244, 114, 182, 0.16);
+}
+
+/* Slightly tighten the layout for a list-style site. */
+.VPContent {
+    max-width: 920px;
+}
