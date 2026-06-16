@@ -137,11 +137,22 @@ Más recursos:
 | [What the Font](https://www.myfonts.com/WhatTheFont/) | Reconocimiento de fuentes. | Web |
 | [What Font Is](https://www.whatfontis.com/) | Reconocimiento de fuentes. | Web |
 
+## Herramientas de Imagen
+
+| Nombre | Características | Enlace |
+| --- | --- | --- |
+| Remove Background App | Elimina el fondo de imágenes. | [Visitar](https://removebackground.app/) |
+| ClipDrop Image Upscaler | Mejora la resolución de imágenes con IA. | [Visitar](https://clipdrop.co/image-upscaler) |
+| Ray.so | Imágenes de código con estilo. | [Visitar](https://ray.so/) |
+| Screenshot Rocks | Herramienta de captura de pantalla basada en navegador. | [Visitar](https://screenshot.rocks/) |
+| Draw.chat | Dibujo colaborativo con audio y video. | [Visitar](https://draw.chat/) |
+
 ## Videos
 
 | Nombre | Características | Código abierto | Sistemas operativos |
 | --- | --- | --- | --- |
 | [FFmpeg](https://ffmpeg.org/) | Grabar, convertir y reproducir audio y video; entre otros. | `Sí`, disponible en [ffmpeg.org](https://git.ffmpeg.org/ffmpeg.git) | Windows, macOS, Linux |
+| AV Converter | Convierte archivos con FFmpeg en línea. | [Visitar](https://av-converter.com/) |
 | [HandBrake](https://handbrake.fr/) | Convierte videos de cualquier formato a casi cualquier formato.<br>Opciones preconfiguradas.<br>Formatos disponibles:<br>Contenedor de archivos: `.mp4` (`.m4v`) y `.mkv`.<br>Codificador de video: H.265 (x265 y QuickSync), H.264 (x264 y QuickSync), H.265 MPEG-4 y MPEG-2, VP8, VP9 y Theora.<br>Codificador de audio: `.aac`, `.he-aac`, `.mp3`, `.flac`, `.ac3` o Vorbis.<br>Adaptador de audio: `.ac-3`, `.e-ac3`, `.dts`, `.dts-hd`, TrueHD, `.aac` y pistas `.mp3`.<br>Subtítulos (VobSub, Closed Captions CEA-608, SSA, `.srt`).<br>Calidad constante o tasa de bits promedio del codificador del video.<br>Soporte para VFR y CFR.<br>Previsualización. | `Sí`, disponible en [Github](https://github.com/HandBrake/HandBrake) | Windows, macOS, Linux |
 
 ## Videojuegos
@@ -163,6 +174,8 @@ Más recursos:
 | [`EN`] [gallery-dl](https://github.com/mikf/gallery-dl) `Imágenes` | **Requerido:** [Python](https://www.python.org/downloads/) 3.4+, [Requests](https://requests.readthedocs.io/en/master/), [youtube-dl](https://ytdl-org.github.io/youtube-dl/) para descarga de videos.<br>A través de la línea de comando.<br>Descargar galerías de imágenes y colecciones.<br>[Lista](https://github.com/mikf/gallery-dl/blob/master/docs/supportedsites.md) de sitios soportados. | `Sí`, disponible en [Github](https://github.com/mikf/gallery-dl) | Windows, macOS, Linux |
 | [`EN`] [snscrape](https://github.com/JustAnotherArchivist/snscrape) `Redes sociales` | **Requerido:** Python 3.6+, libxml2, libxslt.<br>Búsqueda de perfiles usuario, hashtags, búsquedas en redes sociales.<br>Sitios soportados: Facebook, Gab, Instagram, Twitter, VKontakte, Sina Weibo. | `Sí`, disponible en [Github](https://github.com/JustAnotherArchivist/snscrape). | Windows, macOS, Linux |
 | [`EN`] [Comics-DL](https://github.com/The-Eye-Team/Comics-DL) | Archivado de historietas.<br>Sitios soportados: [readcomicsonline.ru](https://readcomicsonline.ru/), [E-Hentai](https://e-hentai.org/), [My Reading Manga](https://myreadingmanga.info/), [Dounjins.com](https://doujins.com/), [NHentai](https://nhentai.net/), [Pururin](https://pururin.io/). | `Sí`, disponible en [Github](https://github.com/The-Eye-Team/Comics-DL) | Windows, macOS, Linux |
+| [CheveretoDownloader](https://github.com/MandoCoding/CheveretoDownloader) | Descarga contenido de sitios. | `Sí`, disponible en [GitHub](https://github.com/MandoCoding/CheveretoDownloader) | Windows, macOS, Linux |
+| [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) | Descarga contenido de CyberDrop. | `Sí`, disponible en [GitHub](https://github.com/Jules-WinnfieldX/CyberDropDownloader) | Windows, macOS, Linux |
 
 ### Archivado de sitios web
 
@@ -255,13 +268,15 @@ Más recursos:
 | Nombre | Sitios Soportados | Características |
 | --- | --- | --- |
 | [`EN`] [APKCombo](https://apkcombo.com/es-pe/apk-downloader/) `Google Play Store` | Google Play Store | Descarga desde los servidores de la tienda de Google.<br>Evita restricciones regionales.<br>**Opciones múltiples:**<br>Tipo de dispositivo (Por defecto, Teléfono, Tableta, Televisión)<br>Arquitectura del dispositivo (Por defecto, armeabi-v7a, arm64-v8a, x86, x86_64)<br>Versión de Android (Por defecto, 4.4, 5.0, 5.1, 6.0, 7.0, 7.1, 8.0, 8.1, 9.0, 10) |
-| [`EN`] [DLScrib](https://dlscrib.com/) `Scribd` | Scribd | Descarga documentos desde los servidores de Scribd. |
+| [DLScrib](https://dlscrib.com/) `Scribd` | Scribd | Descarga documentos desde los servidores de Scribd. |
+| [Slideshare Downloader](https://www.slidesharedownloader.com/) | Slideshare | Descarga presentaciones de Slideshare. |
 
 ## Línea de comando
 
 | Nombre | Características | Protocolos |
 | --- | --- | --- |
 | [`EN`] [aria2](https://aria2.github.io/) | Multiconexión y multidescarga<br>Uso eficiente de espacio y recursos<br>Cliente Bittorrent<br>Metaenlaces activados: [The Metalink Download Description Format](http://tools.ietf.org/html/rfc5854) (aka Metalink v4), Metalink versión 3, [Metalink/HTTP](http://tools.ietf.org/html/rfc6249)<br>Control remoto: JSON-RPC (HTTP y WebSocket), XML-RPC | HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink |
+| [Vim Cheat Sheet](https://quickref.me/vim) | Guía rápida de Vim. | - | - |
 
 ## Mejora personal
 
@@ -269,10 +284,20 @@ Más recursos:
 | --- | --- |
 | [`EN`] [Entrenamiento Físico](https://nytimes.com/interactive/projects/well/workouts/) | Ejercicios y ejemplos. |
 | [`EN`] [Typing](https://typing.com) | Practica mecanografía. |
+| [TaskWarrior](https://taskwarrior.org) | Gestión de tareas mediante línea de comando. |
+| [Tweakeze](https://www.tweakeze.com/) | Monitoreo de cambios en el PC. |
+| [XMeters](https://entropy6.com/xmeters/) | Herramientas de medición del sistema. |
+| [Taskbar Stats](https://openhoangnc.github.io/taskbar-stats/) | Estadísticas en la barra de tareas. |
+| [Pitikapp](https://pitikapp.com/) | Dashboard remoto para PC: monitorea GPU, CPU, RAM, framerate en tiempo real. |
 
 ## Organización del tiempo
 
 | Nombre | Características |
 | --- | --- |
 | [`EN`] [Timo](https://hellotimo.co/) | Simple y bonita interfaz.<br>**Funciones:**<br>Seguimiento de tareas<br>Modo oscuro. |
-| [`EN`] [TodoHQ](https://todohq.co/) | Simple y bonita interfaz.<br>**Funciones:**<br>Crea listas de tareas<br>Sincronización<br>Modo oscuro. |
+| [TodoHQ](https://todohq.co/) | Simple y bonita interfaz.<br>**Funciones:**<br>Crea listas de tareas<br>Sincronización<br>Modo oscuro. |
+| [Notifier.so](https://notifier.so/) | Recibe notificaciones cuando se publique contenido. |
+| [Nibbler](https://nibbler.silktide.com/) | Prueba de sitios web: accesibilidad, SEO, tracking. |
+| [ParseHub](https://www.parsehub.com/pricing) | Web scraping (versiones de pago y gratuita). |
+| [Browse AI](https://dashboard.browse.ai/tasks) | Scraping diario con integración Zapier. |
+| [Tally](https://tally.so/dashboard) | Creador de formularios, similar a Google Forms. |

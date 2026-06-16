@@ -96,6 +96,14 @@ description: 'Pasatiempos, aficiones y enlaces misceláneos: lectura, videojuego
 | daumd02.net | KO | Foro de fotografía profesional y amateur, con una galería integrada. | [Visitar](http://daumd02.net) |
 | [NVShens](https://www.nvshens.net/) | ZH | Información sobre modelos y figuras femeninas influyentes, incluye revista y artículos. | [Visitar](https://www.nvshens.net/) |
 
+## Ciencia
+
+- **[Scipy Lecture Notes](https://scipy-lectures.org/)**
+  - Tutorial completo sobre computación científica con Python: NumPy, SciPy, Matplotlib, pandas, scikit-learn.
+
+- **[UPhysicsC](http://www.uphysicsc.com/home.html)**
+  - Lista de problemas de física.
+
 ## Pornografía
 
 | Nombre del Sitio | Idioma | Descripción | Enlace |

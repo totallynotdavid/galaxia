@@ -68,6 +68,33 @@ description: 'Motores de búsqueda, Google dorks, metabuscadores, indexadores FT
 | Newspapers.com | EN | Archivo de periódicos históricos. | [Visitar](https://newspapers.com/) |
 | Newspapers Archives & Indexes | EN | Índice de archivos de periódicos de la Biblioteca del Congreso. | [Visitar](https://www.loc.gov/rr/news/oltitles.html) |
 
+## Búsqueda académica
+
+| Nombre | Idioma | Descripción | Enlace |
+| --- | --- | --- | --- |
+| Arxivist | EN | Acceso a artículos académicos. | [Visitar](https://arxivist.com/) |
+| Undermind AI | EN | Búsqueda de artículos científicos usando IA. | [Visitar](https://www.undermind.ai/home/) |
+
+## Metabuscadores
+
+| Nombre | Idioma | Descripción | Enlace |
+| --- | --- | --- | --- |
+| Wutsearch | EN | Metabuscador que lanza consultas en múltiples motores. | [Visitar](https://wutsearch.com/) |
+| Oldest Search | EN | Busca los resultados más antiguos de Google. | [Visitar](https://www.oldestsearch.com/) |
+
+## Búsqueda inversa
+
+| Nombre | Idioma | Descripción | Enlace |
+| --- | --- | --- | --- |
+| Vampire69 Blog | EN | Lista de modelos posiblemente encontrados mediante búsqueda inversa. | [Visitar](https://www.vampire69blog.com/) |
+| Picuki | EN | Visor y RSS para perfiles de Instagram. | [Visitar](https://www.picuki.com/) |
+
+## Libros
+
+| Nombre | Idioma | Descripción | Enlace |
+| --- | --- | --- | --- |
+| Weird Old Book Finder | EN | Encuentra libros antiguos y raros. | [Visitar](https://weird-old-book-finder.glitch.me/) |
+
 ## Sintaxis de búsqueda
 
 ### Libros en directorios públicos

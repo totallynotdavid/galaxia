@@ -66,6 +66,11 @@ description: 'Directorio extenso de bibliotecas digitales y recursos en línea: 
 | [Semantic Scholar](https://www.semanticscholar.org/) | [`EN`] | Artículos científicos | Grande (181061808) |
 | [SciHub](https://sci-hub.tw/) [1](https://sci-hub.se/) | Inglés | Artículos científicos | Grande |
 | [Biblioteca Génesis](http://libgen.lc/) [1](http://libgen.li/) [2](http://185.39.10.101/) | [`EN`], [`ES`], [`DE`], entre otros | Libros universitarios, artículos científicos, ficción, cómics y revistas | Grande |
+| [MIT Press Journals](https://www.mitpressjournals.org/action/showPublications) | [`EN`] | Colección completa de publicaciones del MIT. | Grande |
+| [MIT Press Books](https://direct.mit.edu/books) | [`EN`] | Libros publicados por MIT Press. | Grande |
+| [UST Digital Library](http://digitallibrary.ust.edu.ph/) | [`EN`], latín | Biblioteca digital universitaria. | Mediano |
+| [Georgia Tech Math Textbooks](https://textbooks.math.gatech.edu/ila/overview.html) | [`EN`] | Libros de texto de matemáticas de Georgia Tech. | Pequeño |
+| [Judy Records](https://www.judyrecords.com/) | [`EN`] | Búsqueda de registros de casos judiciales en Estados Unidos. | Grande |
 | [Biblioteca Z - Artículos](http://articles24t2d47kb6rbabobokvrnymh2smkleosntcu6qxou6sxewyd.onion/) | [`EN`], [`ES`], entre otros | Artículos científicos | Mediano-grande (77143139) |
 
 ### Específico

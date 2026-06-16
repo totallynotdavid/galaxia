@@ -34,3 +34,9 @@ description: Selección y recomendación de software y extensiones para mejorar 
 
 - **Imagus** ([Chromium](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/imagus/)): Mostrar la imagen en vez de entrar a cada enlace.
 - **Reverse Image Search** ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/)): Búsqueda inversa en Firefox.
+- **Downloader for OnlyFans** ([Chrome](https://chrome.google.com/webstore/detail/downloader-for-onlyfansco/pdbbabjcnanbkimdgcdfbnghhmchomnh)): Descarga publicaciones de OnlyFans.
+- **Huntress Reverse Image Search** ([Chrome](https://chrome.google.com/webstore/detail/huntress-reverse-image-se/nkhjamjppefmeceaokadfacbdmmcmdpg/related?hl=en)): Búsqueda inversa con capacidades de captura de pantalla.
+
+## Software
+
+- **[Mathematica Keygen](https://ibug.io/blog/2019/05/mathematica-keygen/)**: Información sobre keygen de Mathematica.

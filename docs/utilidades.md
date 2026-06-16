@@ -17,6 +17,15 @@ description: 'Para enlaces que te harán decir: "¡Esto es justo lo que necesita
 | --- | --- | --- | --- |
 | [Kern Type](https://type.method.ac/) | EN | [Visitar](https://type.method.ac/) | Aprende a distribuir correctamente el espacio entre letras en un texto. |
 
+### Programación
+
+| Recurso | Idioma | Enlace | Descripción |
+| --- | --- | --- | --- |
+| [Codedamn](https://codedamn.com/dashboard) | EN | [Visitar](https://codedamn.com/dashboard) | Plataforma de aprendizaje interactivo para desarrolladores. |
+| [Computer Vision by PJ Reddie](https://pjreddie.com/courses/computer-vision/) | EN | [Visitar](https://pjreddie.com/courses/computer-vision/) | Curso completo de visión por computadora. |
+| [Qiskit Quantum Tools](https://learn.qiskit.org/course/ch-prerequisites/environment-setup-guide-to-work-with-qiskit-textbook) | EN | [Visitar](https://learn.qiskit.org/course/ch-prerequisites/environment-setup-guide-to-work-with-qiskit-textbook) | Herramientas para simulaciones cuánticas. |
+| [Free Certifications for Developers](https://markodenic.com/free-certifications-for-developers/) | EN | [Visitar](https://markodenic.com/free-certifications-for-developers/) | Certificaciones gratuitas para desarrolladores. |
+
 ### Idiomas
 
 #### Inglés
@@ -25,6 +34,8 @@ description: 'Para enlaces que te harán decir: "¡Esto es justo lo que necesita
 | --- | --- | --- |
 | [BBC Learning English](http://www.bbc.co.uk/learningenglish/) | EN | [Visitar](http://www.bbc.co.uk/learningenglish/) |
 | [British Council's Learning English](https://learnenglish.britishcouncil.org/) | EN | [Visitar](https://learnenglish.britishcouncil.org/) |
+| [Wikilengua](http://www.wikilengua.org/index.php/Portada) | ES | [Visitar](http://www.wikilengua.org/index.php/Portada) |
+| [Ling Your Language](https://lingyourlanguage.com/) | EN | [Visitar](https://lingyourlanguage.com/) |
 
 ## Compras
 
@@ -204,6 +215,8 @@ description: 'Para enlaces que te harán decir: "¡Esto es justo lo que necesita
 | --- | --- | --- | --- |
 | DPlayer | EN | - Reproductor de video HTML5 "danmaku"<br>- Funciones:<br> - "Danmaku" (comentarios durante la reproducción del video)<br> - Captura de pantalla<br> - Atajos de teclado<br> - Cambio de calidad de video<br> - Miniaturas<br> - Subtítulos<br>- Formatos:<br> - **Emisión en directo:**<br> - [HLS](https://github.com/video-dev/hls.js)<br> - [FLV](https://github.com/Bilibili/flv.js)<br> - [MPEG DASH](https://github.com/Dash-Industry-Forum/dash.js)<br> - [WebTorrent](https://github.com/webtorrent/webtorrent)<br> - Cualquier otro formato de emisión personalizado<br> - **Multimedia:**<br> - MP4 H.264<br> - WebM<br> - Ogg Theora Vorbis<br>- [Código abierto](https://github.com/MoePlayer/DPlayer) | [DPlayer](https://dplayer.js.org/) |
 | APlayer | EN | - Reproductor de música HTML5<br>- Funciones:<br> - Lista de reproducción<br> - Letra de la canción<br>- Formatos:<br> - MP4 H.264 (AAC o MP3)<br> - WAVE PCM<br> - Ogg Theora Vorbis<br>- Complementos: _(Listado de complementos si aplica)_ | [APlayer](https://github.com/MoePlayer/APlayer) |
+| [Docusaurus](https://docusaurus.io/) | EN | Generador de sitios de documentación, similar a Hugo. | [Visitar](https://docusaurus.io/) |
+| [Publii](https://getpublii.com/dev/) | EN | Generador de sitios estáticos, similar a Hugo. | [Visitar](https://getpublii.com/dev/) |
 
 ## Seguridad
 
@@ -211,6 +224,7 @@ description: 'Para enlaces que te harán decir: "¡Esto es justo lo que necesita
 
 | Nombre | Idioma | Descripción | Funciones | Formatos Disponibles | Enlace |
 | --- | --- | --- | --- | --- | --- |
+| Any.run | EN | Sandbox interactivo para análisis de malware. | - Análisis dinámico en tiempo real<br>- Interactúa con el malware manualmente | PE, Office, PDF, APK, Java, scripts | [Any.run](https://any.run/) |
 | Hybrid Analysis | EN | Servicio de análisis de software malicioso en línea | - Examina la actividad de un archivo de forma dinámica y estática en un ambiente virtual (VirtualBox y VMWare)<br>- Escaneo múltiple<br>- Ambiente virtual soportado: Windows 7 (32 y 64 bits), Windows XP, Vista, Windows 7/8, 10 | - PE (.exe, .scr, .pif, .dll, .com, .cpl, etc.)<br>- Office (.doc, .docx, .ppt, .pps, .pptx, .ppsx, .xls, .xlsx, .rtf, .pub)<br>- PDF (.pdf)<br>- APK (.apk)<br>- Ejecutable Java (.jar)<br>- Componente de órdenes de Windows (.sct)<br>- Accesos directos de Windows (.lnk)<br>- Ayuda de Windows (.chm)<br>- Aplicación HTML (.hta)<br>- Archivo de órdenes de Windows (_.wsf)<br>- Javascript (.js)<br>- Visual Basic (.vbs, .vbe)<br>- Shockwave Flash (.swf)<br>- Perl (.pl)<br>- Powershell (.ps1, .psd1, .psm1)<br>- Gráficos vectoriales escalables (.svg)<br>- Órdenes de Python (.py) y Perl (.pl)<br>- Ejecutables Linux ELF<br>- MIME RFC 822 (_.eml)<br>- Paquetes de instalación de Microsoft (_.msi)<br>- Archivos de mensaje de Outlook (_.msg) | [Hybrid Analysis](https://www.hybrid-analysis.com/) |
 
 ### Privacidad
@@ -248,9 +262,18 @@ description: 'Para enlaces que te harán decir: "¡Esto es justo lo que necesita
 | Nombre | Idiomas | Características | Enlace |
 | --- | --- | --- | --- |
 | Privacy | EN | - _Solo en Estados Unidos_<br>- Paga servicios web sin revelar tu tarjeta de crédito<br>- Recibe una tarjeta de crédito distinta por cada servicio<br>- Fácilmente deja de pagar cuentas extras<br>- Limitar el dinero gastado por tarjeta, por mes, por gasto o por año<br>- Notificaciones cada vez que una transacción sucede<br>- **Extensiones:** Firefox, Chrome | [Privacy](https://privacy.com/) |
+| [FFProfile](https://ffprofile.com/#start) | EN | Crea perfiles de Firefox con configuraciones específicas. | [Visitar](https://ffprofile.com/#start) |
 
 ## Extras
 
 | Nombre | Idioma | Características | Enlace |
 | --- | --- | --- | --- |
 | Noisli | EN | - Genera un ambiente sonoro para concentrarte<br>- **Sonidos disponibles:** Lluvia, Rayos, Bosque, Viento, Hojas, Corrientes de agua, Río, Gotas, Entre otros<br>- Temporizador<br>- Necesario iniciar sesión<br>- **Extensiones:** Chrome | [Noisli](https://www.noisli.com/) |
+| [Julius AI](https://julius.ai) | EN | Computación de datos con IA (uso limitado). | [Visitar](https://julius.ai) |
+| [Hugging Face AutoNLP](https://huggingface.co/autonlp) | EN | Herramientas de aprendizaje automático de Hugging Face. | [Visitar](https://huggingface.co/autonlp) |
+| [Hugging Face Models](https://huggingface.co/models) | EN | Datasets para entrenamiento de modelos de ML. | [Visitar](https://huggingface.co/models) |
+| [ArchInstall](https://python-archinstall.readthedocs.io/en/latest/index.html) | EN | Instalación simplificada de Arch Linux. | [Visitar](https://python-archinstall.readthedocs.io/en/latest/index.html) |
+| [Potion Templates](https://potion.so/templates) | EN | Colección de plantillas para Notion. | [Visitar](https://potion.so/templates) |
+| [Notion Company Home](https://easlo.notion.site/Company-Home-4a2ca7d4d25f48a8996ca3b36038fc97) | EN | Ejemplo de plantilla de empresa para Notion. | [Visitar](https://easlo.notion.site/Company-Home-4a2ca7d4d25f48a8996ca3b36038fc97) |
+| [WebsiteIQ](https://www.websiteiq.com/explore/) | EN | Descubre y explora sitios web. | [Visitar](https://www.websiteiq.com/explore/) |
+| [Crwd](https://www.crwd.to/discord/) | EN | Archivado público de servidores Discord para administradores. | [Visitar](https://www.crwd.to/discord/) |

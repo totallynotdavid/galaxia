@@ -41,3 +41,25 @@ description: 'Directorio para descarga y búsqueda de audios: desde audiolibros 
 ---
 
 - [Hype Machine](https://hypem.com/latest) `bandas independientes`
+
+## Efectos de sonido
+
+| Nombre | Descripción | Enlace |
+| --- | --- | --- |
+| SFX Cellar Accusonus | Efectos de sonido gratuitos. | [Visitar](https://sfxcellar.accusonus.com/free-sound-effects) |
+| Music for Video | Efectos de sonido gratuitos para videomakers. | [Visitar](https://music-for-video.com/blog/free-sound-effects-for-videomakers) |
+| Sweet Sound Effects | Colección completa de SFX gratuitos. | [Visitar](http://sweetsoundeffects.com/) |
+| Sonniss Game Audio GDC | Recursos de audio para videojuegos. | [Visitar](https://sonniss.com/gameaudiogdc) |
+| SoundBible | Efectos de sonido gratuitos. | [Visitar](https://soundbible.com/) |
+
+## Podcasts
+
+| Nombre | Descripción | Enlace |
+| --- | --- | --- |
+| ListenNotes | Busca y encuentra podcasts. | [Visitar](https://www.listennotes.com/) |
+
+## Música
+
+| Nombre | Descripción | Enlace |
+| --- | --- | --- |
+| Pixabay Music | Música libre de regalías. | [Visitar](https://pixabay.com/music/) |
