@@ -50,6 +50,9 @@ features:
     - title: Pasatiempo
       details: 'Pasatiempos, aficiones y enlaces misceláneos: lectura, videojuegos retro, programación, foros, entre otros.'
       link: /pasatiempo
+    - title: Búsqueda
+      details: 'Motores de búsqueda, Google dorks, metabuscadores, indexadores FTP, torrents y archivos de periódicos.'
+      link: /busqueda
 ---
 
 ## Glosario
