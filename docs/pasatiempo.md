@@ -104,6 +104,19 @@ description: 'Pasatiempos, aficiones y enlaces misceláneos: lectura, videojuego
 - **[UPhysicsC](http://www.uphysicsc.com/home.html)**
   - Lista de problemas de física.
 
+### Ecuaciones diferenciales y Series de Fourier
+
+| Recurso | Descripción | Enlace |
+| --- | --- | --- |
+| Método de Frobenius | Notas sobre el método de Frobenius para EDO. | [Visitar](https://www.math.mcgill.ca/gantumur/math315w14/downloads/frobenius.pdf) |
+| Brainly - EDO | Problema de ecuaciones diferenciales resuelto. | [Visitar](https://brainly.in/question/1118579) |
+| Series de soluciones | Series de soluciones para ecuaciones diferenciales. | [Visitar](http://people.uncw.edu/hermanr/mat361/ODEBook/Series.pdf) |
+| Serie de Fourier compleja | Notas de clase sobre series de Fourier. | [Visitar](https://wiki.math.ntnu.no/_media/tma4120/2017h/lec07.pdf) |
+| Serie de Fourier compleja (x²·sin x) | Cómo encontrar la serie de Fourier compleja de x²·sin x. | [Visitar](https://math.stackexchange.com/questions/620967/finding-the-complex-fourier-series-of-the-function-x2-sinx-in-the-interval) |
+| Notas de Fourier (MIT) | Notas sobre series de Fourier del MIT. | [Visitar](https://math.mit.edu/~jorloff/18.04/notes/topic4.pdf) |
+| Problema de Brown University | Tarea sobre integrales trigonométricas y series. | [Visitar](https://www.cfm.brown.edu/people/dobrush/am34/s18/hw/s5.pdf) |
+| Integral con x²·sin(x) | Discusión sobre ∫ x²·sin(x)/(1+2a·cos(x)+a²) dx. | [Visitar](https://math.stackexchange.com/questions/2322740/computation-of-int-02-pi-fracx2-sinx1-2a-cosx-a2) |
+
 ## Pornografía
 
 | Nombre del Sitio | Idioma | Descripción | Enlace |
