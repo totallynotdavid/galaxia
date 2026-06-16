@@ -47,6 +47,9 @@ features:
     - title: Piratería
       details: Recursos de la escena, foros, NZB indexers y sitios P2P/Usenet.
       link: /pirateria
+    - title: Pasatiempo
+      details: 'Pasatiempos, aficiones y enlaces misceláneos: lectura, videojuegos retro, programación, foros, entre otros.'
+      link: /pasatiempo
 ---
 
 ## Glosario
