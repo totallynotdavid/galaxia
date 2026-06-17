@@ -36,6 +36,14 @@ description: 'Pasatiempos, aficiones y enlaces misceláneos: lectura, videojuego
 - **[DRM Removal](https://apprenticealf.wordpress.com/)**
   - Recursos para la eliminación de DRM de contenido digital.
 
+### General
+
+- **[Computer Drawer](https://www.instructables.com/id/Computer-Drawer/)**
+  - Proyecto de bricolaje para construir un cajón de computadora.
+
+- **[Autism History Project](https://www.futurity.org/autism-history-project-2019262-2/)**
+  - Artículo sobre la historia del autismo y sus investigaciones.
+
 ## Videojuegos
 
 ### Emuladores y ROMs
@@ -103,6 +111,16 @@ description: 'Pasatiempos, aficiones y enlaces misceláneos: lectura, videojuego
 
 - **[UPhysicsC](http://www.uphysicsc.com/home.html)**
   - Lista de problemas de física.
+
+### Cinemática
+
+| Recurso | Descripción | Enlace |
+| --- | --- | --- |
+| Sci122 Lab - Kinematics | Laboratorio de cinemática de la Universidad de Honolulu. | [Visitar](https://www.honolulu.hawaii.edu/instruct/natsci/science/brill/sci122/SciLab/L6/kinelab.html) |
+| Plano Inclinado | Informe de laboratorio sobre plano inclinado (UNICEN). | [Visitar](https://users.exa.unicen.edu.ar/catedras/fisexp1/files/2011%201%20Lopez-Martinez-Viglezzi-Plano%20Inclinado-Inf.pdf) |
+| Revista Brasileira de Ensino de Física | Artículo académico sobre enseñanza de física (Scielo). | [Visitar](https://www.scielo.br/pdf/rbef/v34n2/v34n2a08.pdf) |
+| Kinematics1 | Notas de laboratorio sobre cinemática (Northwestern, vía archive.org). | [Visitar](https://web.archive.org/web/20181024172826/groups.physics.northwestern.edu/lab/first/kinematics1.pdf) |
+| Integral de Riemann | Cálculo de `∫₀¹ eˣ dx` mediante suma de Riemann. | [Visitar](https://math.stackexchange.com/questions/2910096/how-to-calculate-int-01-ex-dx-using-riemann-sum) |
 
 ### Ecuaciones diferenciales y Series de Fourier
 

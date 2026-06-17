@@ -57,6 +57,20 @@ description: Utilidades para administración, descarga, multimedia y productivid
 | [qBittorrent](https://www.qbittorrent.org) | Cliente P2P.<br>Motor de búsqueda. | `Sí`, disponible en [Github](https://github.com/qbittorrent/qBittorrent).<br>Escrito en C++. | Windows, macOS, Linux, Unix |
 | [uGet](https://ugetdm.com/) | Descarga multiconexión.<br>Monitoreo del portapapeles.<br>Descarga y unión del mismo archivo de varios servidores. | `Sí`, disponible en [SourceForge](https://sourceforge.net/p/urlget/uget2/ci/master/tree/) | Linux, Windows, BSD, Android |
 
+## Hosting web
+
+| Nombre | Características | Enlace |
+| --- | --- | --- |
+| 1&1 IONOS | Registro y gestión de dominios. | [Visitar](https://www.1and1.com/domaincheckresult) |
+| Hosting24 | Dominio gratuito .com, .net, .org. | [Visitar](https://www.hosting24.com/free_domain.php) |
+| Biz.nf | Dominio gratuito .com, .net, .org, .eu, .co.nf. | [Visitar](https://www.biz.nf/free-domain.php) |
+| One.com | Dominios y alojamiento web. | [Visitar](https://www.one.com/es/) |
+| 2FreeHosting | Hosting gratuito con cPanel, PHP, SSH y MySQL. | [Visitar](https://www.2freehosting.com/) |
+| Ikoula | Hosting y servicios de cloud. | [Visitar](https://order.ikoula.com/sign_in.php) |
+| Shinobi Sandbox | Sandbox japonés para pruebas web. | [Visitar](http://sandbox.shinobi.jp/manage/) |
+| FC2 Web | Alojamiento web gratuito (1 GB). | [Visitar](http://web.fc2.com/en/?lang=en) |
+| x2hosting | Hosting gratuito con PHP y MySQL. | [Visitar](http://x2hosting.ga/) |
+
 # Multimedia
 
 ## Escritura
@@ -146,6 +160,12 @@ Más recursos:
 | Ray.so | Imágenes de código con estilo. | [Visitar](https://ray.so/) |
 | Screenshot Rocks | Herramienta de captura de pantalla basada en navegador. | [Visitar](https://screenshot.rocks/) |
 | Draw.chat | Dibujo colaborativo con audio y video. | [Visitar](https://draw.chat/) |
+
+## Hosting de Video
+
+| Nombre | Características | Enlace |
+| --- | --- | --- |
+| Sendvid | Subir y compartir videos. | [Visitar](https://sendvid.com/) |
 
 ## Videos
 

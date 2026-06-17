@@ -16,6 +16,9 @@ description: 'Para enlaces que te harán decir: "¡Esto es justo lo que necesita
 | Recurso | Idioma | Enlace | Descripción |
 | --- | --- | --- | --- |
 | [Kern Type](https://type.method.ac/) | EN | [Visitar](https://type.method.ac/) | Aprende a distribuir correctamente el espacio entre letras en un texto. |
+| [Envato Tuts+](https://design.tutsplus.com/) | EN | [Visitar](https://design.tutsplus.com/) | Tutoriales de diseño gráfico e ilustración. |
+| [Pixactly](https://pixactly.app/) | EN | [Visitar](https://pixactly.app/) | Juego para aprender a dimensionar píxeles correctamente. |
+| [The Bézier Game](http://bezier.method.ac/) | EN | [Visitar](http://bezier.method.ac/) | Videojuego para aprender a usar la pluma de Bezier. |
 
 ### Programación
 
@@ -54,6 +57,17 @@ description: 'Para enlaces que te harán decir: "¡Esto es justo lo que necesita
 | **Recomendaciones** | - |
 | **Características** | - Reseñas<br>- Ofertas<br>- Consejos al comprar |
 | **Categorías** | - Electrónicos<br>- Casa y jardín<br>- Cocina<br>- Electrodomésticos<br>- Salud<br>- Software y aplicaciones<br>- Propiedad de The New York Times |
+
+### Camisetas y Merchandising
+
+| Nombre | Idioma | Características | Enlace |
+| --- | --- | --- | --- |
+| Duitang | ZH | Plataforma de inspiración e imágenes (china). | [Visitar](https://www.duitang.com/) |
+| Latostadora | ES | Camisetas personalizadas. | [Visitar](http://www.latostadora.com/) |
+| Opawcreate | EN | Diseños de camisetas en tendencia (Tumblr). | [Visitar](https://opawcreate.tumblr.com/) |
+| Spreadshirt | EN | Camisetas personalizadas y merchandising. | [Visitar](https://www.spreadshirt.com/) |
+| Teechip | EN | Diseña y vende camisetas en línea. | [Visitar](https://teechip.com/) |
+| Pop Chart Lab | EN | Diseño + datos = delicia; pósters y camisetas temáticas. | [Visitar](https://www.popchartlab.com/) |
 
 ## Recursos para Creación de Contenido
 
@@ -119,6 +133,13 @@ description: 'Para enlaces que te harán decir: "¡Esto es justo lo que necesita
 | --------------- | ------------------------------------------------------ |
 | Color Hunt      | [Color Hunt](https://colorhunt.co)                     |
 | Cohesive Colors | [Cohesive Colors](https://javier.xyz/cohesive-colors/) |
+
+### Recursos y Blogs
+
+| Nombre | Idioma | Características | Enlace |
+| --- | --- | --- | --- |
+| Nice Fucking Graphics | ES | Blog de diseño y actualidad gráfica (vía archive.org). | [Visitar](https://web.archive.org/web/20211020233307/http://nfgraphics.com/) |
+| Tipografía Digital | ES | Blog sobre tipografía, tipos de letra y fuentes. | [Visitar](http://tipografiadigital.net/) |
 
 ## Documentos
 
@@ -218,6 +239,15 @@ description: 'Para enlaces que te harán decir: "¡Esto es justo lo que necesita
 | [Docusaurus](https://docusaurus.io/) | EN | Generador de sitios de documentación, similar a Hugo. | [Visitar](https://docusaurus.io/) |
 | [Publii](https://getpublii.com/dev/) | EN | Generador de sitios estáticos, similar a Hugo. | [Visitar](https://getpublii.com/dev/) |
 
+### Tutoriales
+
+| Nombre | Idioma | Características | Enlace |
+| --- | --- | --- | --- |
+| FalconMasters | ES | Tutorial: cómo hacer un slideshow para un sitio web. | [Visitar](http://www.falconmasters.com/tutoriales/como-hacer-slideshow/) |
+| ESP-Desarrolladores | ES | Recursos y tutoriales para desarrollo web. | [Visitar](http://www.esp-desarrolladores.com/) |
+| Tradablebits | EN | Marketing basado en fans y publicidad social integrada para empresas. | [Visitar](https://tradablebits.com/) |
+| MakerMoon | EN | Colección de generadores para diseño web. | [Visitar](https://www.makermoon.com/) |
+
 ## Seguridad
 
 ### Análisis
@@ -277,3 +307,4 @@ description: 'Para enlaces que te harán decir: "¡Esto es justo lo que necesita
 | [Notion Company Home](https://easlo.notion.site/Company-Home-4a2ca7d4d25f48a8996ca3b36038fc97) | EN | Ejemplo de plantilla de empresa para Notion. | [Visitar](https://easlo.notion.site/Company-Home-4a2ca7d4d25f48a8996ca3b36038fc97) |
 | [WebsiteIQ](https://www.websiteiq.com/explore/) | EN | Descubre y explora sitios web. | [Visitar](https://www.websiteiq.com/explore/) |
 | [Crwd](https://www.crwd.to/discord/) | EN | Archivado público de servidores Discord para administradores. | [Visitar](https://www.crwd.to/discord/) |
+| [Smartlook](https://www.smartlook.com/) | EN | Analítica de comportamiento de usuarios: grabaciones de sesiones, mapas de calor, embudos. | [Visitar](https://www.smartlook.com/) |

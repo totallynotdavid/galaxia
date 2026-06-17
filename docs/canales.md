@@ -157,6 +157,18 @@ y luego por idioma.
 - [TechAltar](https://www.youtube.com/c/TechAltar/): Desde una perspectiva económica.
 - [Wendover Productions](https://www.youtube.com/c/Wendoverproductions/): Desde una perspectiva económica.
 
+## Televisión, Radio y Streaming
+
+### Peruanas
+
+- [TV Perú](http://www.tvperu.gob.pe/): televisión pública peruana.
+- [Radio Nacional](http://www.radionacional.com.pe/): radio pública peruana.
+- [Canal IPE](http://www.canalipe.tv/): canal educativo peruano.
+
+### Anime
+
+- [Funimation](http://www.funimation.com/): streaming de anime y distribución de DVD/Blu-ray.
+
 ## Noticias
 
 ### Español
