@@ -308,3 +308,4 @@ description: 'Para enlaces que te harán decir: "¡Esto es justo lo que necesita
 | [WebsiteIQ](https://www.websiteiq.com/explore/) | EN | Descubre y explora sitios web. | [Visitar](https://www.websiteiq.com/explore/) |
 | [Crwd](https://www.crwd.to/discord/) | EN | Archivado público de servidores Discord para administradores. | [Visitar](https://www.crwd.to/discord/) |
 | [Smartlook](https://www.smartlook.com/) | EN | Analítica de comportamiento de usuarios: grabaciones de sesiones, mapas de calor, embudos. | [Visitar](https://www.smartlook.com/) |
+| [Manolo Rocks](https://manolo.rocks/) | ES | Buscador de personas que visitan entidades del Estado peruano. | [Visitar](https://manolo.rocks/) |

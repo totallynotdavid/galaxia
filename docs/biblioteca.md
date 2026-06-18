@@ -153,6 +153,10 @@ description: 'Directorio extenso de bibliotecas digitales y recursos en línea: 
   - [Toonily](https://toonily.com/)
   - [Mangazuki](https://raws.mangazuki.co/) `raw`
 
+- Herramientas
+
+  - [nH Codes](https://nhcodes.everythingmoe.com/) - Buscador de códigos nHentai
+
 - Doujinshi
 
   | Nombre | Librería | Interfaz | Traducción | Publicidad |

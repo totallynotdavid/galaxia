@@ -135,3 +135,12 @@ description: Enlaces pendientes de clasificación.
 - [Front-end Feeds](https://github.com/impressivewebs/frontend-feeds) - Colección de feeds de front-end
 - [Lista de Alternativas a Front-ends](https://hackmd.io/MCpUlTbLThyF6cw_fywT_g?view#Facebook) - Alternativas a front-ends de redes sociales
 - [RSS para Redes Sociales](https://bootcamp.uxdesign.cc/how-i-set-up-my-social-media-diet-via-rss-4b1e936be09d) - Cómo configurar una dieta de RSS para redes sociales
+
+## Pendientes de revisión
+
+| Nombre | Descripción | Estado | Enlace |
+| --- | --- | --- | --- |
+| DMM MIFD194 | Detalle de DVD JAV | Pendiente | [Visitar](https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=mifd194/) |
+| DMM MIDV035 | Detalle de DVD JAV | Pendiente | [Visitar](https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=midv035/) |
+| Pluralsight Redeem | Enlace de redención de Pluralsight | Pendiente | [Visitar](https://www.pluralsight.com/redeemlink/genericV4?redemptionId=4d3b4105-3a95-4748-8807-f7bf00fe5bbc&mac=e0ca15fcc3991ce3db6cccad1ce1fee98afc3686349acd7fe73a1706324b9547#) |
+| 357x Blogspot | Google Drive comprimido | `caído` | [Visitar](https://357x.blogspot.com/) |

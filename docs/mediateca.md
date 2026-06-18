@@ -482,6 +482,7 @@ Entretenimiento
 | Nombre | Contenido |
 | --- | --- |
 | [PornoLab](https://pornolab.net/forum/index.php) | Cine erótico, amateur (pornhub, chaturbate), sitios web completos, JAV, revistas y sets de fotografías |
+| [Exoticaz](https://exoticaz.to/) | Tracker privado de contenido adulto general |
 
 </details>
 
@@ -495,6 +496,12 @@ Entretenimiento
 | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [t66y](https://t66y.com/index.php) | Pornografía occidental, amateur y novela | Servidores de pago | `.torrent` |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" width="17"> [Norituh](https://norituh.net/) | Colecciones (puntos), BJ, galería amateur, set de fotografías de modelos | Sí | Sí (costo en puntajes) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" width="17"> [JogaEParty](https://jogaeparty13.com/) | JAV, BJ (Corea del Sur y China, película erótica, "deepfake" de celebridades | Sí | Desconocido |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [91Porn](https://91porn.com/) | Pornografía general, amateur | Sí | No |
+| [7MMTV](https://7mmtv.tv/) | JAV, streaming y descarga | Sí | Sí |
+| <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="17"> [Everia Club](https://everia.club/) | Revistas y sets de fotografía JAV | No | No |
+| [Panpicks](https://panpicks.com/) | Reviews y top 10 de JAV | No | No |
+| [Zenra Blog](https://www.zenra.net/blog) | Blog y noticias sobre JAV | No | No |
+| [Zenra Free JAV Reverse Image Search](https://www.zenra.net/free-jav-reverse-image-search) | Búsqueda inversa de imágenes JAV | No | No |
 
 <details>
    <summary>P2P (.torrent)</summary>
@@ -596,6 +603,7 @@ Entretenimiento
 | Nombre | Contenido | Calidad |
 | --- | --- | --- |
 | [Mov18P+](https://mov18plus.com/) | Película erótica de producción variada, especialmente surcoreana, incluso producciones vintage | 480, 720 |
+| [KAV](https://kav.so/category/korean/) | Contenido erótico surcoreano categorizado | Desconocido |
 
 ### Amateur asiático
 
@@ -604,3 +612,31 @@ Entretenimiento
 | [totoland](http://totoland4.cc/bbs/board.php?bo_table=bo_25) `revisión` | BJ (gif) | Propio |
 | [XKorean](https://xcam.asia/) | BJ surcoreanas y chinas | Propio |
 | [Darksocials](https://www.darksocials.com/) | BJ surcoreanas y chinas | Pornhub/Mega |
+| [Fapello](https://fapello.com/) | OnlyFans leaks, contenido amateur | Propio |
+| [Fappy ML](https://fappy.ml/egirls_station/index.php?/category/1869) | E-girls y contenido amateur | Propio |
+| [Chaturbot](https://chaturbot.co/) | Buscador de cuentas activas de Chaturbate | Propio |
+
+### Foros
+
+<details>
+   <summary>Foros de adulto</summary>
+
+| Nombre | Contenido | Idioma |
+| --- | --- | --- |
+| [AVNO1](http://avno1.playno1.com/) | JAV, animación, amateur | ZH |
+| [HJD2048](https://hjd2048.com/2048/) | Foro de descargas adultas | ZH |
+| [WQEWQ5ASEWQE](https://wqewq5asewqe.xyz/) | Contenido adulto asiático | ZH |
+
+</details>
+
+### Almacenamiento
+
+| Nombre | Contenido | Tipo |
+| --- | --- | --- |
+| [Arkjav](https://arkjav.com/) | JAV en Google Drive | Almacenamiento |
+
+### Descarga de videos
+
+| Nombre | Descripción | Enlace |
+| --- | --- | --- |
+| [XXXSave](https://xxxsave.net/result/) | Descarga videos de Pornhub | [Visitar](https://xxxsave.net/result/) |
