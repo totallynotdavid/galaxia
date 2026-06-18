@@ -21,13 +21,12 @@ A curated list of various resources categorized for easy navigation.
 - [FMHY](https://fmhy.xyz/)
 - [91Porn](https://91porn.com/)
 - [AVNO1 PlayNo1](http://avno1.playno1.com/)
-- [Arcjav IPX-530](https://arcjav.com/ipx-530/)
 
 ### **Additional Links**
 
 | Description | Link |
 | --- | --- |
-| Arcjav Google Drive | [arcjav.com](https://arcjav.com/) |
+| Arkjav Google Drive | [arkjav.com](https://arkjav.com/) |
 | 357x Blogspot with Compressed Google Drive | [357x.blogspot.com](https://357x.blogspot.com/) |
 | TokyoTosho Torrent Asia | [TokyoTosho](https://www.tokyotosho.info/) |
 | Everia Club - Revistas | [Everia.club](https://everia.club/) |
@@ -65,7 +64,6 @@ A curated list of various resources categorized for easy navigation.
 
 | Item | Description | Link |
 | --- | --- | --- |
-| Shane’sWorld #32 - Campus Invasion | Available for download | [Available](https://pornolab.net/forum/viewtopic.php?t=1994952) |
 | Current Accounts from Actresses on Chaturbate | Find current accounts | [Chaturbot](https://chaturbot.co/) |
 
 ## Subtítulos en Español
@@ -107,7 +105,6 @@ A curated list of various resources categorized for easy navigation.
 
 | AV Title | Description | Link |
 | --- | --- | --- |
-| AV Title MIDV033 | DMM DVD Detail | [DMM MIDV033](https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=midv033/) |
 | AV Title MIFD194 | DMM DVD Detail | [DMM MIFD194](https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=mifd194/) |
 | AV Title MIDV035 | DMM DVD Detail | [DMM MIDV035](https://www.dmm.co.jp/mono/dvd/-/detail/=/cid=midv035/) |
 
@@ -130,7 +127,6 @@ A curated list of various resources categorized for easy navigation.
 
 | Service | Description | Link |
 | --- | --- | --- |
-| Shoow.in | Movie streaming platform | [Shoow.in](https://shoow.in/) |
 | XXX Save | Download from Pornhub | [XXXSave](https://xxxsave.net/result/) |
 | Manolo Rocks | Visitor insights | [Manolo Rocks](https://manolo.rocks/) |
 | Skyscanner Español | Book flights | [Skyscanner](https://www.espanol.skyscanner.com/) |
@@ -143,10 +139,6 @@ A curated list of various resources categorized for easy navigation.
 | --- | --- | --- |
 | Downloader for OnlyFans | Download posts from OnlyFans | [Chrome Web Store](https://chrome.google.com/webstore/detail/downloader-for-onlyfansco/pdbbabjcnanbkimdgcdfbnghhmchomnh) |
 | Huntress Reverse Image Search | Reverse search with screenshot capabilities | [Chrome Web Store](https://chrome.google.com/webstore/detail/huntress-reverse-image-se/nkhjamjppefmeceaokadfacbdmmcmdpg/related?hl=en) |
-
-### Firefox Extensions
-
-_(No specific extensions listed for Firefox)_
 
 ## Download Tools
 
@@ -281,9 +273,4 @@ _(No specific extensions listed for Firefox)_
 
 ## Image Tools
 
-- [DropNudes](https://dropnudes.com/)
 - [ClipDrop Image Upscaler](https://clipdrop.co/image-upscaler)
-
-## Drive Workers
-
-- [Cloudflare Streaming Bypass](https://lively-sunset-8675.protobb.workers.dev/1:/)
