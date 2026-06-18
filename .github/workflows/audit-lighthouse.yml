@@ -19,8 +19,8 @@ jobs:
             - uses: treosh/lighthouse-ci-action@v9
               with:
                   urls: |
-                      https://totallynotdavid.github.io/galaxia/
-                      https://totallynotdavid.github.io/galaxia/basededatos
+                      https://totallynotdavid.github.io/urls/
+                      https://totallynotdavid.github.io/urls/basededatos
                   budgetPath: ./.github/budget.json
                   uploadArtifacts: true
                   temporaryPublicStorage: true

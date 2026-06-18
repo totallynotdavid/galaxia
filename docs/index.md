@@ -11,7 +11,7 @@ hero:
           link: /basededatos
         - theme: alt
           text: Ver en GitHub
-          link: https://github.com/totallynotdavid/galaxia
+          link: https://github.com/totallynotdavid/urls
 
 features:
     - title: Base de datos

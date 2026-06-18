@@ -4,7 +4,7 @@ import flagShortcode from './plugins/flag-shortcode'
 export default defineConfig({
     title: 'Galaxia',
     description: 'Colección de enlaces valiosos de Internet con sugerencias de uso práctico',
-    base: '/galaxia/',
+    base: '/urls/',
     lastUpdated: true,
     cleanUrls: true,
     ignoreDeadLinks: true,
@@ -49,7 +49,7 @@ export default defineConfig({
         },
 
         editLink: {
-            pattern: 'https://github.com/totallynotdavid/galaxia/edit/master/docs/:path',
+            pattern: 'https://github.com/totallynotdavid/urls/edit/master/docs/:path',
             text: 'Editar en GitHub'
         }
     }
