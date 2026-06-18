@@ -63,3 +63,5 @@ description: 'Directorio para descarga y búsqueda de audios: desde audiolibros 
 | Nombre | Descripción | Enlace |
 | --- | --- | --- |
 | Pixabay Music | Música libre de regalías. | [Visitar](https://pixabay.com/music/) |
+| [David Byrne Radio](http://davidbyrne.com/radio#filter=all&sortby=date:desc) | Lista de canciones seleccionadas por David Byrne. | [Visitar](http://davidbyrne.com/radio#filter=all&sortby=date:desc) |
+| [Jamps Discografías](http://jamps.com.ar/foro/portal.php) | Foro de discografías. | [Visitar](http://jamps.com.ar/foro/portal.php) |

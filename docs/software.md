@@ -40,3 +40,27 @@ description: Selección y recomendación de software y extensiones para mejorar 
 ## Software
 
 - **[Mathematica Keygen](https://ibug.io/blog/2019/05/mathematica-keygen/)**: Información sobre keygen de Mathematica.
+- **[uBlock Origin - Why Use It](https://shouldiblockads.com/)**: Tutorial sobre por qué usar uBlock Origin.
+
+## PWA
+
+- **[Djvu.js](https://djvu.js.org/)**: Abrir archivos .djvu en el navegador.
+- **[ePubViewer](https://pgaskin.net/ePubViewer/)**: Abrir archivos .epub en el navegador.
+- **[Writty](https://iamcharlie.design/writty/online/)**: Editor de texto en línea, código abierto.
+- **[QuickLook](http://1218.io/)**: Vista previa de archivos como en macOS.
+- **[WP Stash](https://wpstash.io/)**: Herramientas para WordPress.
+- **[Telegram React](https://evgeny-nadymov.github.io/telegram-react/)**: Cliente web de Telegram.
+- **[UWP Apps Community](https://uwpcommunity.com/projects/)**: Proyectos de la comunidad UWP.
+
+## Clientes RSS
+
+### Aplicaciones web
+
+- **[Privus Reader](https://privusreader.com/explore)**: Lector de RSS que requiere Blockstack.
+- **[Feeds Pub](https://feeds.pub/)**: Lector de RSS minimalista.
+- **[RSS como un periódico del siglo XX](https://news.russellsaw.io/)**: Visualización de RSS estilo periódico.
+
+### Aplicaciones nativas
+
+- **[gorss](https://github.com/Lallassu/gorss)**: Lector de RSS para la terminal (Go).
+- **[Fraidycat](https://addons.mozilla.org/en-US/firefox/addon/fraidycat/)**: Extensión y aplicación de escritorio (Electron) para seguir fuentes RSS.

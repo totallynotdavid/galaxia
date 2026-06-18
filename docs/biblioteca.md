@@ -123,6 +123,7 @@ description: 'Directorio extenso de bibliotecas digitales y recursos en línea: 
 | [forcoder](https://forcoder.su/) | Libros de programación (8590) y videos de cursos (4990) | [`EN`] | `.pdf` `.epub` `.mp4` | Rapidgator, Turbobit |
 | [All IT Books](https://www.allitebooks.org/) | Informática (desarrollo web, administración, seguridad, entre otros) (8500) | [`EN`] | `.pdf` `.epub` | Propio |
 | [OpenLibra](https://openlibra.com/en/collection) `Licencia libre` | Desarrollo web, ciencia y entretenimiento (+3000) | [`EN`] y [`ES`] | `.pdf` | Propio |
+| [Crafting Interpreters](http://craftinginterpreters.com/introduction.html) | Libro sobre creación de lenguajes de programación | [`EN`] | `.html` | Propio |
 
 ### Novela ligera
 
@@ -147,6 +148,7 @@ description: 'Directorio extenso de bibliotecas digitales y recursos en línea: 
 | --- | --- | --- |
 | [Mangadex](https://www.mangadex.org/) | Manga [`JP`] y algunos cómics web | [`EN`], [`ES`], entre otros |
 | [TuMangaOnline](https://tmofans.com/) | Manga, manhua y doujinshi | [`ES`] |
+| [ComicK](https://comick.fun/) | Manga | [`EN`] |
 
 - Manhwa
 

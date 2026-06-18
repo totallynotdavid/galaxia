@@ -133,3 +133,24 @@ Para archivos dudosos, comparar el CSR.
 | [nzbking.com](https://nzbking.com/) | Búsqueda de NZB. |
 | [findnzb.net](https://findnzb.net/) | Motor de búsqueda de NZB. |
 | [nzbfriends.com](https://nzbfriends.com/) | Comunidad de búsqueda NZB. |
+
+## Almacenamiento
+
+| Recurso | Descripción |
+| --- | --- |
+| [MegaPreview](https://www.megapreview.com/) | Enlaces públicos de Mega con vista previa. |
+| [Rapidleech](http://bakaleech.herokuapp.com/) | Descarga de archivos desde servidores de terceros. |
+| [Cuentas de Mega](https://throwbin.io/zFYRVcG) | Cuentas de Mega compartidas. |
+
+## Tutoriales
+
+| Recurso | Descripción |
+| --- | --- |
+| [Twitch Accounts](https://ghostbin.co/paste/b7zfc/raw) | Cómo obtener cuentas de pago de Twitch y obtener dinero. |
+
+## Misceláneo
+
+| Recurso | Descripción |
+| --- | --- |
+| [357x Blogspot](https://357x.blogspot.com/) | Google Drive comprimido. `caído` |
+| [vsx](http://vsex.in) | Contenido adulto. |

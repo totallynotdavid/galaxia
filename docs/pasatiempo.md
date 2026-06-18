@@ -43,6 +43,14 @@ description: 'Pasatiempos, aficiones y enlaces misceláneos: lectura, videojuego
 
 - **[Autism History Project](https://www.futurity.org/autism-history-project-2019262-2/)**
   - Artículo sobre la historia del autismo y sus investigaciones.
+- **[Astronaut.io](http://astronaut.io)**
+  - Canales de YouTube aleatorios con 0 vistas cada 5 segundos.
+- **[Explain XKCD](https://www.explainxkcd.com/)**
+  - Explicaciones detalladas de cómics XKCD.
+- **[Turing](https://www.gwern.net/Turing-complete)**
+  - Artículo sobre la completitud de Turing.
+- **[50 Ideas That Changed My Life](https://www.perell.com/blog/50-ideas-that-changed-my-life)**
+  - Lista de ideas que cambiaron la vida del autor.
 
 ## Videojuegos
 
@@ -63,6 +71,8 @@ description: 'Pasatiempos, aficiones y enlaces misceláneos: lectura, videojuego
 
 - **[Play Emulator](https://www.playemulator.com/)**
   - Emuladores que funcionan directamente en el navegador.
+- **[Ares](https://ares.hankstoever.com/)**
+  - Juego simple en línea.
 
 ### Arcade y Retro
 
@@ -76,6 +86,22 @@ description: 'Pasatiempos, aficiones y enlaces misceláneos: lectura, videojuego
 
 - **[Learn X in Y minutes](https://learnxinyminutes.com/)**
   - Tutoriales rápidos para aprender distintos lenguajes de programación.
+- **[Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)**
+  - Tutorial interactivo para aprender Git.
+- **[Web Skills](https://andreasbm.github.io/web-skills/)**
+  - Mapa de habilidades necesarias para desarrollo web.
+- **[Dark Mode with React](https://joshwcomeau.com/gatsby/dark-mode/)**
+  - Tutorial sobre cómo implementar modo oscuro en React.
+- **[Learn at Home](https://github.com/s0md3v/learn-at-home)**
+  - Lista de cursos disponibles en línea.
+- **[Bivector](https://bivector.net/doc.html)**
+  - Lista de recursos para estudiantes de ciencias de la computación y CGI.
+- **[Levels.fyi](https://www.levels.fyi/)**
+  - Salarios en empresas tecnológicas.
+- **[Strike Market](https://strike.market/)**
+  - Plataforma de mercado de valores.
+- **[Web3 Is Going Great](https://web3isgoinggreat.com/)**
+  - Recursos e información sobre Web3.
 
 ## Codificación
 
@@ -111,6 +137,18 @@ description: 'Pasatiempos, aficiones y enlaces misceláneos: lectura, videojuego
 
 - **[UPhysicsC](http://www.uphysicsc.com/home.html)**
   - Lista de problemas de física.
+- **[Physics Travel Guide](https://physicstravelguide.com/)**
+  - Guía de física para estudiantes de distintos niveles.
+- **[CK-12](https://www.ck12.org/student/)**
+  - Matemática, ciencias sociales, ciencia. Enfocado en estudiantes estadounidenses, similar a Khan Academy.
+- **[BBC Computer Literacy Project](https://clp.bbcrewind.co.uk/)**
+  - Archivo del proyecto de alfabetización informática de la BBC.
+- **[Microsoft Learn](https://docs.microsoft.com/en-gb/learn/)**
+  - Cursos y certificados de Microsoft.
+- **[Pronabec - Beca Presidente](https://www.pronabec.gob.pe/beca-presidente/)**
+  - Lista de mejores universidades según varias métricas.
+- **[Pluralsight](https://www.pluralsight.com/)**
+  - Plataforma de cursos de tecnología.
 
 ### Cinemática
 
@@ -141,3 +179,9 @@ description: 'Pasatiempos, aficiones y enlaces misceláneos: lectura, videojuego
 | --- | --- | --- | --- |
 | r18.com/news | EN | Noticias sobre el mundo pornográfico japonés. | [Visitar](https://r18.com/news) |
 | news.dmm.co.jp | JP | Noticias del estudio DMM sobre sus producciones. | [Visitar](https://news.dmm.co.jp) |
+
+## Geografía
+
+| Nombre | Idioma | Descripción | Enlace |
+| --- | --- | --- | --- |
+| You Don't Know Africa | EN | Geografía de África. | [Visitar](https://www.youdontknowafrica.com/1/) |

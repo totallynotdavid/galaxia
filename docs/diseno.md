@@ -32,3 +32,17 @@ description: Herramientas de diseño y recursos para mejorar la estética de tus
 | Nombre | Características | Enlace |
 | --- | --- | --- |
 | Visme Templates | Plantillas para videos, presentaciones, etc. | [Visitar](https://www.visme.co/templates/videos/) |
+
+## Tipografías
+
+| Nombre | Características | Enlace |
+| --- | --- | --- |
+| Fontkey | Explorador de tipografías. | [Visitar](https://www.fontkey.design/) |
+| FontSpark | Generador de tipografías para proyectos. | [Visitar](https://fontspark.app/) |
+| Nodesign | Recursos de diseño sin necesidad de conocimientos técnicos. | [Visitar](https://nodesign.dev/) |
+
+## Color
+
+| Nombre | Características | Enlace |
+| --- | --- | --- |
+| Nippon Colors | Paleta de colores japoneses tradicionales. | [Visitar](https://nipponcolors.com/) |

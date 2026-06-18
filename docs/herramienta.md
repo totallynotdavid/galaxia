@@ -56,6 +56,8 @@ description: Utilidades para administración, descarga, multimedia y productivid
 | --- | --- | --- | --- |
 | [qBittorrent](https://www.qbittorrent.org) | Cliente P2P.<br>Motor de búsqueda. | `Sí`, disponible en [Github](https://github.com/qbittorrent/qBittorrent).<br>Escrito en C++. | Windows, macOS, Linux, Unix |
 | [uGet](https://ugetdm.com/) | Descarga multiconexión.<br>Monitoreo del portapapeles.<br>Descarga y unión del mismo archivo de varios servidores. | `Sí`, disponible en [SourceForge](https://sourceforge.net/p/urlget/uget2/ci/master/tree/) | Linux, Windows, BSD, Android |
+| [Send Anywhere](https://send-anywhere.com/) | Transferencia de archivos entre dispositivos. | `Sí` | Windows, macOS, Linux, Android, iOS |
+| [Offcloud](https://offcloud.com/) | Transfiere archivos entre servidores sin descargar. | No | Aplicación web |
 
 ## Hosting web
 
@@ -71,6 +73,14 @@ description: Utilidades para administración, descarga, multimedia y productivid
 | FC2 Web | Alojamiento web gratuito (1 GB). | [Visitar](http://web.fc2.com/en/?lang=en) |
 | x2hosting | Hosting gratuito con PHP y MySQL. | [Visitar](http://x2hosting.ga/) |
 
+## Finanzas
+
+| Nombre | Características | Enlace |
+| --- | --- | --- |
+| Cocos y Lucas BCP | Cambio de divisas dólar-sol. | [Visitar](https://www.cocosylucasbcp.com/) |
+| Cambio Seguro | Plataforma de cambio seguro. | [Visitar](https://cambioseguro.com/) |
+| Jet Peru | Calcula tus cambios de moneda. | [Visitar](https://www.jetperu.com.pe/calcula-tus-cambios) |
+
 # Multimedia
 
 ## Escritura
@@ -81,6 +91,7 @@ description: Utilidades para administración, descarga, multimedia y productivid
 | --- | --- | --- | --- |
 | [Roam Research](https://roamresearch.com/) `De pago` `Gratuito` | Simple y práctico.<br>Sincronización de notas.<br>Posee diversos atajos de teclado. | No | Aplicación web |
 | [Manifest](https://www.manifest.app/) | Simple y práctico.<br>Anónimo y "seguro" (se almacena en el navegador de forma local).<br>Modo oscuro disponible. | `Sí`, disponible en [Github](https://github.com/jonathontoon/manifest/) | |
+| [Boostnote](https://boostnote.io/) | Cuaderno de notas, software libre. | `Sí` | Aplicación web |
 
 [Microtetha](https://notepad.microtheta.com/)
 

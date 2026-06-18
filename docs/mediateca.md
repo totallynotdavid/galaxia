@@ -253,6 +253,9 @@ Entretenimiento
 | [StreamIT](https://streamit.ws/?) | 11720 películas, 76 series | 480, 720 | No | Clásica o "indie" |
 | [Soap2DAY](https://soap2day.to/) [1](https://soapgate.org/) | 6870 películas, 1530 series | 720 | No | The Office en buena calidad |
 | [Rulu](https://www.rulu.co/) | 24 películas y 57 series | 480, 720, 1080 | Inglés, español, entre otros | Youtube y propio |
+| [Movidy](https://movidy.co/) | Cine en castellano y español latino | Desconocido | Español | - |
+| [Flixtor](https://flixtor.to/home) | Películas en emisión directa desde torrents | Desconocido | Inglés | Sin software de terceros |
+| [Shoow.in](https://shoow.in/) | Plataforma de streaming de películas | Desconocido | Español | - |
 
 </details>
 
@@ -408,6 +411,16 @@ Entretenimiento
 </details>
 
 <details>
+   <summary>Fansubs y recursos</summary>
+
+| Nombre | Descripción | Enlace |
+| --- | --- | --- |
+| [Hagure Subs](http://www.haguresubs.org/p/proyectos-finalizados.html) | Fansub de animación japonesa, proyectos finalizados. | [Visitar](http://www.haguresubs.org/p/proyectos-finalizados.html) |
+| [Getchu](http://www.getchu.com/) | Tienda de visual novels y productos de animación japonesa. | [Visitar](http://www.getchu.com/) |
+
+</details>
+
+<details>
    <summary>Descarga</summary>
 
 | Nombre | Librería | Calidad | Hospedaje |
@@ -534,6 +547,7 @@ Entretenimiento
 | [hanime](https://hanime.tv/) | 2403 | 480, 720 | Inglés |
 | [Mucho Hentai](https://muchohentai.com/) | 2134 | 720 | Intacto, inglés y español |
 | [HentaiLA](https://hentaila.com/) | 548 | 480, 720 | Inglés |
+| [Hentai AHO](https://haho.moe/) | Hentai 1080p | 1080 | Inglés |
 | [Shosetsu Online](https://www.shosetsu-online.org/) `caído` | 400 | 480, 720 | Inglés |
 
 #### JAV
@@ -615,6 +629,8 @@ Entretenimiento
 | [Fapello](https://fapello.com/) | OnlyFans leaks, contenido amateur | Propio |
 | [Fappy ML](https://fappy.ml/egirls_station/index.php?/category/1869) | E-girls y contenido amateur | Propio |
 | [Chaturbot](https://chaturbot.co/) | Buscador de cuentas activas de Chaturbate | Propio |
+| [Deluge 700GB](http://51.159.54.90:8080/deluge/) | Amateur chino, 700 GB, 26 MB+ | Propio |
+| [485 GB](http://51.158.150.43:8080/) | Amateur chino, 485 GB | Propio |
 
 ### Foros
 
@@ -634,6 +650,7 @@ Entretenimiento
 | Nombre | Contenido | Tipo |
 | --- | --- | --- |
 | [Arkjav](https://arkjav.com/) | JAV en Google Drive | Almacenamiento |
+| [TeamDrive - American Dad](https://td.klprojects.tech/0:/American%20Dad%20S01-S11%20(2005-)/American%20Dad%20S01%20(360p%20re-blurip)/) | Series de televisión en Google Drive | Almacenamiento |
 
 ### Descarga de videos
 
