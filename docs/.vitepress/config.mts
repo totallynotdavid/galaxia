@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import flagShortcode from './plugins/flag-shortcode'
 
 export default defineConfig({
     title: 'Galaxia',
@@ -7,6 +8,12 @@ export default defineConfig({
     lastUpdated: true,
     cleanUrls: true,
     ignoreDeadLinks: true,
+
+    markdown: {
+        config: (md) => {
+            md.use(flagShortcode)
+        }
+    },
 
     locales: {
         es: {

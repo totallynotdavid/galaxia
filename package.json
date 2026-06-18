@@ -9,6 +9,7 @@
         "lint": "markdownlint-cli2 \"*.md\" \".github/*.md\" \"docs/**/*.md\""
     },
     "devDependencies": {
+        "@types/markdown-it": "^14.1.2",
         "markdownlint-cli2": "^0.22.1",
         "vitepress": "^1.6.4",
         "vue": "^3.5.38"
