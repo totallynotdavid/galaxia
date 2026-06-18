@@ -53,8 +53,8 @@ description: Software, videojuegos, imágenes, video y cine.
 | [GloTorrents](https://glodls.to/) | Cuidado | General, anime, libro, set de fotografía |
 | [Kickass Torrents](https://katcr.co/) | Cuidado | General, anime, libro, magazín, set de fotografía (suave y explícito) |
 | [ProStyleX](https://prostylex.org/) | Cuidado | General, anime, JAV, hentai, set de fotografía |
-| <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" width="17"> [rutor](http://rutor.info/) | Cuidado | General, anime, cine extranjero, comedia en vivo, documentales |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="17">[JoyMaxim](https://joymaxim.com/) | Cuidado | Cine, programas de televisión, doramas, documentales, videojuegos, animación japonesa |
+| :flag-ru: [rutor](http://rutor.info/) | Cuidado | General, anime, cine extranjero, comedia en vivo, documentales |
+| :flag-kr: [JoyMaxim](https://joymaxim.com/) | Cuidado | Cine, programas de televisión, doramas, documentales, videojuegos, animación japonesa |
 
 </details>
 
@@ -67,7 +67,7 @@ description: Software, videojuegos, imágenes, video y cine.
 | [Mobilism](https://forum.mobilism.org/index.php) | Libros electrónicos, audiolibros, aplicaciones para Android (original y modificado), entre otros | Rapidgator, Uploaded, entre otros (depende del usuario) |
 | [World Source](https://www.worldsrc.org) | Películas, series de televisión, aplicaciones (Windows, Android, videojuegos) | Descarga directa + torrent |
 | [Scnlog](https://scnlog.me/) `Escena` | General, aplicaciones (general y videojuegos), libros electrónicos, cine extranjero, pornografía | Nitroflare, TurboBit, LetsUpload, Upload.ac, MixDrop, UptoBox, gounlimited |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Flag_of_Germany_%283-2_aspect_ratio%29.svg" width="17"> [HD-Source](http://hd-source.to/) [1](http://serienjunkies.org) | Películas, series de televisión, videojuegos y pornografía | Uploaded, Rapidgator, DDL.to, Oboom |
+| :flag-de: [HD-Source](http://hd-source.to/) [1](http://serienjunkies.org) | Películas, series de televisión, videojuegos y pornografía | Uploaded, Rapidgator, DDL.to, Oboom |
 | [Volno!](https://volno.org/portal.php/) | Aplicaciones móviles, cursos, libros, música, películas, series de televisión, videojuegos, pornografía | Rapidgator, Nitroflare |
 | [downTURK](https://www.downturk.net/) | Software (Windows, Android), diseño (vector, tipografía), libro | Rapidgator, Nitroflare |
 
@@ -324,7 +324,7 @@ Entretenimiento
 | [YMovies](https://ymovies.to/) | 39672 | 480, 720, 1080 | No (es posible cargar subtítulos) | + Cine antiguo (caídos) |
 | [Afdah](https://afdah.info/) | 23880 películas | 480, 720, 1080 | Inglés | Cine antiguo |
 | [AZMovies](https://azm.to/) | 5053 películas | 720, 1080 | No | Cine antiguo |
-| [elitestream](https://www.elitestream.io/) | 4381 películas | 480, 720 | Español y doblaje <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="17"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" width="17"> | Doblaje latina y castellana |
+| [elitestream](https://www.elitestream.io/) | 4381 películas | 480, 720 | Español y doblaje :flag-es: :flag-mx: | Doblaje latina y castellana |
 | [FlixGo](https://flixgo.biz/) | 2112 películas y 44 series | 480, 720 | No |
 
 </details>
@@ -371,7 +371,7 @@ Entretenimiento
 
 | Nombre | Contenido | Servidores |
 | --- | --- | --- |
-| <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="17"> [Unión Fansub](https://torrent.unionfansub.com/browse.php) | Animación subtitulada y doblada (popular y pornográfica), música | Google Drive, Mega, Mediafire, entre otros (depende del usuario) |
+| :flag-es: [Unión Fansub](https://torrent.unionfansub.com/browse.php) | Animación subtitulada y doblada (popular y pornográfica), música | Google Drive, Mega, Mediafire, entre otros (depende del usuario) |
 
 <details>
    <summary>P2P (.torrent)</summary>
@@ -400,7 +400,7 @@ Entretenimiento
 | [animepahe](https://animepahe.com/) | 3384 | 480,720,1080 | {{9}}/{{10}} | No |
 | [animeultima](https://animeultima.eu/), [Animeflix](https://animeflix.io/) | 2453 | 480,720,1080 | {{9}}/{{10}} | Inglés |
 | [Animetake](https://animetake.tv/) | 2293 | 480,720 | {{6}}/{{10}} | No |
-| <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" height="15"> [Aniwatch](https://aniwatch.me/) | 2109 | 480,720,1080 | {{8}}/{{10}} | No |
+| :flag-de: [Aniwatch](https://aniwatch.me/) | 2109 | 480,720,1080 | {{8}}/{{10}} | No |
 | [Anime Twist](https://twist.moe/) | 1558 | 480,720 | {{10}}/{{10}} | No |
 | [4Anime](https://4anime.to/) | 1316 | 480,720 | {{9}}/{{10}} | No |
 | [DarkAnime](https://darkanime.stream/) | 1200 | 480,720 | {{7}}/{{10}} | Sí |
@@ -505,13 +505,13 @@ Entretenimiento
 
 | Nombre | Contenido | Emisión en continuo | Descarga |
 | --- | --- | --- | --- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [11tang](https://www.11tang.me/index.php) | JAV, amateur, pornografía occidental, fotos callejeras | Sí | `.torrent` |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [t66y](https://t66y.com/index.php) | Pornografía occidental, amateur y novela | Servidores de pago | `.torrent` |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" width="17"> [Norituh](https://norituh.net/) | Colecciones (puntos), BJ, galería amateur, set de fotografías de modelos | Sí | Sí (costo en puntajes) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png" width="17"> [JogaEParty](https://jogaeparty13.com/) | JAV, BJ (Corea del Sur y China, película erótica, "deepfake" de celebridades | Sí | Desconocido |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [91Porn](https://91porn.com/) | Pornografía general, amateur | Sí | No |
+| :flag-cn: [11tang](https://www.11tang.me/index.php) | JAV, amateur, pornografía occidental, fotos callejeras | Sí | `.torrent` |
+| :flag-cn: [t66y](https://t66y.com/index.php) | Pornografía occidental, amateur y novela | Servidores de pago | `.torrent` |
+| :flag-kr: [Norituh](https://norituh.net/) | Colecciones (puntos), BJ, galería amateur, set de fotografías de modelos | Sí | Sí (costo en puntajes) |
+| :flag-kr: [JogaEParty](https://jogaeparty13.com/) | JAV, BJ (Corea del Sur y China, película erótica, "deepfake" de celebridades | Sí | Desconocido |
+| :flag-cn: [91Porn](https://91porn.com/) | Pornografía general, amateur | Sí | No |
 | [7MMTV](https://7mmtv.tv/) | JAV, streaming y descarga | Sí | Sí |
-| <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="17"> [Everia Club](https://everia.club/) | Revistas y sets de fotografía JAV | No | No |
+| :flag-jp: [Everia Club](https://everia.club/) | Revistas y sets de fotografía JAV | No | No |
 | [Panpicks](https://panpicks.com/) | Reviews y top 10 de JAV | No | No |
 | [Zenra Blog](https://www.zenra.net/blog) | Blog y noticias sobre JAV | No | No |
 | [Zenra Free JAV Reverse Image Search](https://www.zenra.net/free-jav-reverse-image-search) | Búsqueda inversa de imágenes JAV | No | No |
@@ -523,8 +523,8 @@ Entretenimiento
 | --- | --- | --- | --- |
 | [Sukebei](https://sukebei.nyaa.si/) | JAV, animación, doujinshi, eroge | Sí/No | {{5}}/{{10}} |
 | [Sukebei Pantsu](https://sukebei.nyaa.net/) | JAV, animación, doujinshi, eroge | Sí/No | {{6}}/{{10}} |
-| <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="17"> [SiS001!](https://sis001.com/forum/index.php) `foro` | JAV, animación, amateur | Sí/No | {{3}}/{{10}} |
-| <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="17"> [mwzjlt23](https://mwzjlt23.net/forum.php) `foro` | JAV, animación, amateur | Sí/No | {{3}}/{{10}} |
+| :flag-jp: [SiS001!](https://sis001.com/forum/index.php) `foro` | JAV, animación, amateur | Sí/No | {{3}}/{{10}} |
+| :flag-jp: [mwzjlt23](https://mwzjlt23.net/forum.php) `foro` | JAV, animación, amateur | Sí/No | {{3}}/{{10}} |
 
 </details>
 
@@ -533,10 +533,10 @@ Entretenimiento
 
 | Nombre | Contenido | Censura | Calidad | Interfaz |
 | --- | --- | --- | --- | --- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [AVbebe](https://avbebe.com/) | JAV, hentai, manga, doujinshi, set de fotografía amateur | Sí/No | 480, 720 | {{7}}/{{10}} |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [AVgigi](https://avgigi.com/) | JAV, hentai, doujin, set de fotografía cosplay y amateur | Sí/No | 480, 720, 1080 | {{5}}/{{10}} |
+| :flag-cn: [AVbebe](https://avbebe.com/) | JAV, hentai, manga, doujinshi, set de fotografía amateur | Sí/No | 480, 720 | {{7}}/{{10}} |
+| :flag-cn: [AVgigi](https://avgigi.com/) | JAV, hentai, doujin, set de fotografía cosplay y amateur | Sí/No | 480, 720, 1080 | {{5}}/{{10}} |
 | [GGJAV](https://ggjav.com/) | JAV, hentai, [reconocimiento facial de actrices de JAV](https://ggjav.com/main/recognize_pornstar) | Sí/No | 480,720,1080 | {{6}}/{{10}} |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [Cherry](https://yt232.com/#/home) [1](https://github.com/avyingtao/dz/blob/master/README.md?main) | JAV, BJ surcoreanas, amateur | Sí/No | 480 (720 de pago) | {{5}}/{{10}} |
+| :flag-cn: [Cherry](https://yt232.com/#/home) [1](https://github.com/avyingtao/dz/blob/master/README.md?main) | JAV, BJ surcoreanas, amateur | Sí/No | 480 (720 de pago) | {{5}}/{{10}} |
 
 </details>
 
@@ -569,7 +569,7 @@ Entretenimiento
    [CovertJapan](https://www.covertjapan.com/en/)|Producción extranjera con actrices "amateur" japonesas|No|{{7}}/{{10}}|CovertJapan
    [JPornAccess](https://jpornaccess.com/)|El estudio más grande sin censura|No|{{5}}/{{10}}|Dreamroom
    [nanairo](https://nanairo.co/ja/)|Grabado en cuartos de hotel con buena iluminación|No|{{10}}/{{10}}|S-Cute
-   <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="17">[SOD](https://ec.sod.co.jp/prime/sod_free/)|JAV de los 90 y 2000|Sí|{{6}}/{{10}}|SOD
+   :flag-jp:[SOD](https://ec.sod.co.jp/prime/sod_free/)|JAV de los 90 y 2000|Sí|{{6}}/{{10}}|SOD
 
    </details>
 
@@ -578,8 +578,8 @@ Entretenimiento
 
 | Nombre | Censura | Interfaz | Calidad | Nota |
 | --- | --- | --- | --- | --- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [Netflav](https://netflav.com/) | Sí/No | {{10}}/{{10}} | 480,720 | Descarga + `.torrent` |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="17"> [Jable](https://jable.tv/) [1](https://fs1.app/) | Sí | {{9}}/{{10}} | 720, 1080 | [En caso de caída](https://github.com/aj23koby4495612/aj23koby4495612) |
+| :flag-cn: [Netflav](https://netflav.com/) | Sí/No | {{10}}/{{10}} | 480,720 | Descarga + `.torrent` |
+| :flag-cn: [Jable](https://jable.tv/) [1](https://fs1.app/) | Sí | {{9}}/{{10}} | 720, 1080 | [En caso de caída](https://github.com/aj23koby4495612/aj23koby4495612) |
 | [JavFinder](https://javfinder.la/) [1](https://jav.sh/) | Sí/No | {{5}}/{{10}} | 480, 720, 1080 | Actualización constante, descarga |
 | [Jav Guru](https://jav.guru/) | Sí/No | {{5}}/{{10}} | 480, 720 | Algunos episodios subtitulados |
 | [JAVMovs](https://javmovs.com/) | Sí | {{7}}/{{10}} | 480,720,1080 | Descarga, filtro por estudio |
